@@ -1,0 +1,30 @@
+.codebox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid gray;
+  background-color: rgb(235, 244, 254);
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+.suggestions {
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.suggestion {
+  display: block;
+  width: 100% !important;
+  float: none !important;
+  padding: 2px 2px 2px 20px;
+  color: black;
+  font-family: Helvetica !important;
+  font-weight: 400 !important;
+  text-shadow: none;
+}
+
+.suggestion:not(:first-child) {
+  border-top: 1px dotted gray;
+}
