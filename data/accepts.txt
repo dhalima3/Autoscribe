@@ -1,0 +1,10 @@
+accepts_nested_attributes_for
+accepts
+accepts_nested_attributes_for has_many
+accepts synonym
+accepts header
+accepts_nested_attributes_for has_many through
+accepts_nested_attributes_for has_one
+acceptsecuritycontext error
+accepts nested attributes for polymorphic
+accepts paypal

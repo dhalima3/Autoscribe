@@ -1,0 +1,10 @@
+specify
+specify definition
+specify synonym
+specify ruby version in gemfile
+specify port in url
+specify cuda_toolkit_root_dir
+specify node version in package.json
+specify favicon
+specify gem version
+specify ssh key

@@ -1,0 +1,10 @@
+lcs
+lcd
+lcs schedule
+lc action
+lcm
+lc stock
+lcsw
+lcd soundsystem
+lcs standings
+lck

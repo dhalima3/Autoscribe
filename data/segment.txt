@@ -1,0 +1,10 @@
+segment
+segmentation
+segmentation fault
+segmentation fault 11
+segment routing
+segment 3 sfsu
+segment tree
+segmentation fault (core dumped)
+segment crunchbase
+segmentation definition

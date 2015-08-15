@@ -1,0 +1,10 @@
+http
+http status codes
+http //192.168.l.l
+http 302
+http 401
+http 400
+http 403
+http // www.google.com
+https everywhere
+httpservletrequest

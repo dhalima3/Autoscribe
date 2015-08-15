@@ -1,0 +1,10 @@
+firewall
+firewall definition
+firewall movie
+firewalld
+firewall mac
+firewall software
+firewall settings
+firewall rules
+firewall paradox
+firewalld open port

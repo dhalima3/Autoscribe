@@ -1,0 +1,10 @@
+seconds in a day
+seconds to minutes
+seconds in a year
+seconds to hours
+seconds to milliseconds
+seconds since epoch
+seconds
+seconds in a month
+seconds from disaster
+seconds per year

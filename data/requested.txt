@@ -1,0 +1,10 @@
+requested
+requested synonym
+requested operation requires elevation
+requested app
+requested in spanish
+requestedexecutionlevel
+requested range not satisfiable
+requested bean is currently in creation
+requested session access is denied
+requested resource is in use

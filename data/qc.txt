@@ -1,0 +1,10 @@
+qcom
+qc
+qcon
+qc25
+qcow2
+qcombobox
+qct
+qc times
+qcv
+qc15

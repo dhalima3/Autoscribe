@@ -1,0 +1,10 @@
+undefined symbols for architecture x86_64
+undefined reference to
+undefined slope
+undefined reference to vtable
+undefined is not a function
+undefined symbols for architecture arm64
+undefined reference to pthread_create'
+undefined reference to clock_gettime'
+undefined symbols for architecture i386
+undefined symbols for architecture armv7

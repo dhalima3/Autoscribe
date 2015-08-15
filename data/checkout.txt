@@ -1,0 +1,10 @@
+checkout 51
+checkout remote branch
+checkout file from another branch
+checkout
+checkout branch git
+checkoutmycards
+checkout git
+checkout vs check out
+checkout from github
+checkout git repo

@@ -14,3 +14,4 @@ for word in wordList:
     for suggestion in root.iter('suggestion'):
         resultsFile.write(suggestion.attrib['data'] + "\n")
     resultsFile.close()
+    print word

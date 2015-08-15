@@ -1,0 +1,10 @@
+permission denied (publickey)
+permission
+permission denied (publickey gssapi-keyex gssapi-with-mic)
+permissionsex
+permission denied (publickey password)
+permission slip
+permissions 0644 for are too open
+permission denied (publickey) aws
+permission denied (publickey keyboard-interactive)
+permission denied

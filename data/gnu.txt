@@ -1,0 +1,10 @@
+gnu
+gnuplot
+gnula
+gnudi
+gnucash
+gnu make
+gnu parallel
+gnupg
+gnu octave
+gnu hurd

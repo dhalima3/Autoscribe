@@ -1,0 +1,10 @@
+unsigned int
+unsigned int java
+unsigned long
+unsigned char
+unsigned short
+unsigned int range
+unsigned integer
+unsigned int c++
+unsigned
+unsigned int max

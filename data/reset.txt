@@ -1,0 +1,10 @@
+reset apple id
+reset iphone
+reset pram
+reset ipad
+reset smc
+reset firefox
+reset chromecast
+reset gmail password
+reset apple watch
+reset icloud password

@@ -1,0 +1,10 @@
+variables
+variables definition
+variables in bash
+variables in python
+variables in java
+variables in javascript
+variables in ruby
+variables in science
+variables in shell script
+variables in math

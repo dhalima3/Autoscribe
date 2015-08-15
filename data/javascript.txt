@@ -1,0 +1,10 @@
+javascript
+javascript array
+javascript substring
+javascript foreach
+javascript date
+javascript regex
+javascript for loop
+javascript map
+javascript switch
+javascript settimeout

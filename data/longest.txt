@@ -1,0 +1,10 @@
+longest yard
+longest word
+longest day of the year
+longest ride
+longest home run
+longest tennis match
+longest palindromic substring
+longest shortest time
+longest increasing subsequence
+longest baseball game

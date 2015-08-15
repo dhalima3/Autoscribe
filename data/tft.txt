@@ -1,0 +1,10 @@
+tfti
+tftp
+tftpd32
+tftp server
+tft
+tftcentral
+tftpd64
+tftc
+tft lcd
+tftp client

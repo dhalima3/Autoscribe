@@ -1,0 +1,10 @@
+mediawiki
+mediawiki formatting
+mediawiki table
+mediawiki api
+mediawiki skins
+mediawiki extensions
+mediawiki links
+mediawiki templates
+mediawiki redirect
+mediawiki image

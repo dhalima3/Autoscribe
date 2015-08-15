@@ -1,0 +1,10 @@
+python
+python dictionary
+python for loop
+python tutorial
+python regex
+python set
+python requests
+python datetime
+python sleep
+python split

@@ -1,0 +1,10 @@
+comments in html
+comments in json
+comments in python
+comments in css
+comments in xml
+comments in javascript
+comments
+comments in sql
+comments in php
+comments in ruby

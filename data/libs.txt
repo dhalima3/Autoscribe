@@ -1,0 +1,10 @@
+libsyn
+libsvm
+libsass
+libsodium
+libstdc++
+libsass bindings not found
+libsvm format
+libssh2
+libsndfile
+libsteal

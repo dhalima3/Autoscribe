@@ -1,0 +1,10 @@
+getsentry
+get satisfaction
+getstudyroom
+getsupportfragmentmanager
+getsportsfocus
+getsystemservice
+getsockopt
+getsidekick
+getscale
+getsupportactionbar

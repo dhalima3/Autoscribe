@@ -1,0 +1,10 @@
+generate ssh key
+generate password
+generate synonym
+generate qr code
+generate ssh key mac
+generate csr
+generate uuid
+generate capital
+generate random password
+generate guid

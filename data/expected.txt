@@ -1,0 +1,10 @@
+expected value
+expected
+expected a character buffer object
+expected family contribution
+expected unqualified-id
+expected primary-expression before
+expected due date
+expected declaration swift
+expected an indented block
+expected rate of return

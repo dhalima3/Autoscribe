@@ -1,0 +1,10 @@
+uniprotkb
+uniprotkb/swiss-prot
+uniprotkb database
+uniprotkb/trembl
+uniprotkb accession
+uniprotkb download
+uniprotkb/uniref100
+uniprotkb/swiss-prot format
+uniprotkb/swiss-prot database
+uniprotkb citation

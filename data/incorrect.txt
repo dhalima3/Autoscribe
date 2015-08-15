@@ -1,0 +1,10 @@
+incorrect
+incorrect rsa1 identifier
+incorrect number of file hard links
+incorrect checksum for freed object
+incorrect number of subscripts on matrix
+incorrect key file for table
+incorrect key file for table try to repair it
+incorrectly
+incorrect datetime value
+incorrect password wifi iphone

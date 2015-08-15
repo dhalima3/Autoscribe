@@ -1,0 +1,10 @@
+expects
+expects definition
+expects synonym
+expects parameter 1 to be resource
+expects in spanish
+expects parameter which was not supplied
+expectsaving
+expects parameter 1 to be resource boolean given in
+expects parameter 1 to be mysqli
+expects parameter 2 to be long

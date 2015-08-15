@@ -1,0 +1,10 @@
+telephony
+telephony modem
+telephonymanager
+telephony definition
+telephony depot
+telephony cable modem
+telephony service
+telephonyware
+telephony android
+telephony@work

@@ -1,0 +1,10 @@
+unable to find local grunt
+unable to access jarfile
+unable to connect to internet game
+unable to find vcvarsall.bat
+unable to connect to the mks
+unable to connect to internet
+unable to connect to proxy server
+unable_to_verify_leaf_signature
+unable to instantiate org.apache.hadoop.hive.metastore.hivemetastoreclient
+unable to simultaneously satisfy constraints

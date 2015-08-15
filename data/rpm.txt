@@ -1,0 +1,10 @@
+rpm mortgage
+rpm
+rpm install
+rpm uninstall
+rpm steak
+rpm italian
+rpm to rad/s
+rpmbuild
+rpm rc
+rpm calculator

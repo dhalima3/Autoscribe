@@ -1,0 +1,10 @@
+weather
+weather san francisco
+weather san jose
+weather radar
+weather underground
+weather santa cruz
+weather sacramento
+weatherbug
+weathertech
+weather chicago

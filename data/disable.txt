@@ -1,0 +1,10 @@
+disabled
+disable selinux
+disable flash in chrome
+disabled iphone
+disable xfinity wifi
+disable javascript chrome
+disable google now
+disable find my iphone
+disable safety mode
+disable iptables

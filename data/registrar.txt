@@ -1,0 +1,10 @@
+registrar sfsu
+registrar
+registrar sjsu
+registrar berkeley
+registrar stanford
+registrar uc davis
+registrar definition
+registrar of voters
+registrar scu
+registrar ucsf

@@ -1,0 +1,10 @@
+supervisord
+supervisor
+supervisor jane kim
+supervisorctl
+supervisor interview questions
+supervisor mark farrell
+supervisor katy tang
+supervisor job description
+supervisord config
+supervisor vs manager

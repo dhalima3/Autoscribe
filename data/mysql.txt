@@ -1,0 +1,10 @@
+mysql
+mysql workbench
+mysql update
+mysql create table
+mysql create user
+mysqldump
+mysql insert
+mysql create database
+mysql tutorial
+mysql download

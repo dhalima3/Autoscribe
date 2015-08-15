@@ -1,0 +1,10 @@
+exists
+exists sql
+exists movie
+exists meaning
+exists in oracle
+exists synonym
+exists trailer
+exists sql server
+exists rails
+existssync

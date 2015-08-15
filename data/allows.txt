@@ -1,0 +1,10 @@
+allows
+allows synonym
+allowsetforegroundwindow
+allowsanyhttpscertificateforhost
+allow background location updates
+allowscellularaccess
+allows for
+allowscriptaccess
+allowsmultipleselectionduringediting
+allowsubdirconfig

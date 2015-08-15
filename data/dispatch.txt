@@ -1,0 +1,10 @@
+dispatcher
+dispatch
+dispatch_async
+dispatch_after
+dispatch_get_global_queue
+dispatch_once
+dispatch_queue_create
+dispatch_sync
+dispatch_semaphore_wait
+dispatch the general

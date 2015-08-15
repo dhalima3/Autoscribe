@@ -1,0 +1,10 @@
+namespace
+namespace c++
+namespace javascript
+namespace std
+namespace python
+namespace php
+namespace xml
+namespace definition
+namespaces linux
+namespace rails

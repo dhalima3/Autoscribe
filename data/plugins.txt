@@ -1,0 +1,10 @@
+plugins
+plugins bukkit
+plugins firefox
+plugins minecraft
+plugins wordpress
+plugins safari
+plugins for logic pro x
+plugins for sublime text 3
+plugins_url
+pluginsync

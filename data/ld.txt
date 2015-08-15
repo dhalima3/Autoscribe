@@ -1,0 +1,10 @@
+ldap
+ldshadowlady
+ldo
+ldl cholesterol
+ld50
+lda
+ldr
+ld_library_path
+ldh
+ldl levels

@@ -1,0 +1,10 @@
+syntax
+syntax definition
+syntax error
+syntax examples
+syntax highlighting
+syntax vs semantics
+syntaxerror unexpected token
+syntax highlighting vim
+syntaxerror unexpected eof while parsing
+syntaxerror invalid syntax

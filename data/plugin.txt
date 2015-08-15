@@ -1,0 +1,10 @@
+plugins
+plugin alliance
+plugin check
+plugin boutique
+plug in hybrid
+plugin cars
+plugin not supported
+plugins bukkit
+plugins firefox
+plugin prius

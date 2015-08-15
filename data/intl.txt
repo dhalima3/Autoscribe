@@ -1,0 +1,10 @@
+intl stock
+intl fcstone
+intltool
+intltelinput
+intl polyfill
+intellicast
+intlgymnast
+intlwindow
+intlawgrrls
+intl mdn
