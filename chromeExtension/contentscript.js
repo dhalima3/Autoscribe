@@ -1,6 +1,7 @@
 $(function(){
   var selectedIndex = 0;
   var suggestionList = ['one', 'two', 'three'];
+  var $lastInputBox = null;
 
   /**
    * Creates a suggestion box at the $input
@@ -15,10 +16,9 @@ $(function(){
       $suggestionList.append($suggestion);
     }
     var $suggestionBox = $('<div/>').addClass('suggestionBox').append($suggestionList);
-    var $inputFocus = $('input:focus');
-    if ($inputFocus.length) {
-      var left = $inputFocus[0].getBoundingClientRect().left;
-      var top = $inputFocus[0].getBoundingClientRect().top;
+    if ($lastInputBox.length) {
+      var left = $lastInputBox[0].getBoundingClientRect().left;
+      var top = $lastInputBox[0].getBoundingClientRect().top;
       $suggestionBox.css({
         top: top,
         left: left
@@ -26,6 +26,16 @@ $(function(){
       $input.after($suggestionBox);
       updateSuggestionSelection();
     }
+
+    // Add mouse events
+    $('.suggestion').on('click', function(e) {
+      var index = $(this).index();
+      selectedIndex = index;
+      useSuggestion();
+      $lastInputBox.focus();
+      toggleSuggestionBox();
+      return false;
+    });
   }
 
   function toggleSuggestionBox() {
@@ -33,8 +43,7 @@ $(function(){
     if ($suggestionBox.length) {
       $suggestionBox.remove();
     } else {
-      var $inputFocus = $('input:focus');
-      createSuggestionBox($inputFocus);
+      createSuggestionBox($lastInputBox);
     }
   }
 
@@ -50,8 +59,7 @@ $(function(){
    * Uses the current selection. Enters the suggestion into the input box.
    */
   function useSuggestion() {
-    var $inputFocus = $('input:focus');
-    $inputFocus.val($inputFocus.val() + suggestionList[selectedIndex]);
+    $lastInputBox.val($lastInputBox.val() + suggestionList[selectedIndex]);
     $('.suggestionBox').remove();
   }
 
@@ -82,7 +90,7 @@ $(function(){
       case 9:
       // Enter
       case 13:
-        console.log('test');
+        $lastInputBox = $('input:focus');
         useSuggestion();
         return false;
       break;
@@ -102,6 +110,7 @@ $(function(){
   // Start the suggestion box when focusing on a element
   $('input[type=text]').on('focus', function(e) {
     var $focusedInput = $(e.currentTarget);
+    $lastInputBox = $(this);
     createSuggestionBox($focusedInput);
   });
 });

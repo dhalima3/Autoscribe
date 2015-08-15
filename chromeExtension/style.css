@@ -16,6 +16,7 @@
 }
 
 .suggestion {
+  cursor: pointer;
   display: block;
   width: 100% !important;
   float: none !important;
@@ -28,6 +29,10 @@
 
   padding: 6px 2px 2px 20px;
   line-height: 1 !important;
+}
+
+.suggestion:hover {
+  background-color: rgb(215, 224, 234);
 }
 
 .suggestion:not(:first-child) {
