@@ -1,0 +1,10 @@
+detected
+detected both log4j-over-slf4j.jar and slf4j-log4j12.jar
+detected synonym
+detected tx unit hang
+detected crossword clue
+detected unclean shutdown mongodb
+detected ap rate limiting
+detect definition
+detectedactivity
+detected an invalid snapshot configuration

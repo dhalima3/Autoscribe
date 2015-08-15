@@ -1,0 +1,10 @@
+disk inventory x
+disk
+diskwarrior
+diskmaker x
+diskpart
+diskaid
+disk utility mac
+disk defragmenter
+disk cleanup
+diskzoo

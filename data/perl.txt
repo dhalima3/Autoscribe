@@ -1,0 +1,10 @@
+perl
+perl split
+perl regex
+perler beads
+perl tutorial
+perl hash
+perlite
+perl array
+perl for loop
+perl chomp

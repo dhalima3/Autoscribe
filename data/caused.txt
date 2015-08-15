@@ -1,0 +1,10 @@
+caused
+caused by java.lang.classnotfoundexception
+caused by java.lang.classnotfoundexception org.apache.commons.logging.logfactory
+caused by java.net.socketexception connection reset
+caused thesaurus
+caused by java.lang.nullpointerexception
+caused by java.net.connectexception connection refused
+caused by java.net.socketexception broken pipe
+caused by java.lang.classnotfoundexception com.mysql.jdbc.driver
+caused by java.net.unknownhostexception

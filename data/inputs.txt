@@ -1,0 +1,10 @@
+inputstream
+inputstream to string
+inputstreamreader
+inputs
+inputstream to byte array
+inputstream to file
+inputstream example
+inputstream to reader
+inputsplit
+inputstream to json

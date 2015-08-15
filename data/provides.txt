@@ -1,0 +1,10 @@
+provides
+provides thesaurus
+provides in spanish
+provides guice
+providermodule
+providespresentationcontexttransitionstyle
+provide support
+provides unstoppable for fist of havoc
+provides death from above and headstrong
+provides for

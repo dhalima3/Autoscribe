@@ -1,0 +1,10 @@
+basename
+basename bash
+basename python
+basename perl
+basename $0
+basename missing operand
+basename ruby
+basename shell
+basename command
+basename xargs

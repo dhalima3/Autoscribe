@@ -1,0 +1,10 @@
+execute
+executed
+execute synonym
+executed contract
+execute immediate
+execute order 66
+execute python script
+executenonquery
+execute shell script
+executer

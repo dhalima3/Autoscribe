@@ -1,0 +1,10 @@
+exception
+exceptional
+exception in thread main java.lang.noclassdeffounderror
+exceptionalism
+exception handling
+exception handling in java
+exception java
+exception in thread main java.lang.unsupportedclassversionerror
+exception python
+exception in thread main java.lang.nullpointerexception

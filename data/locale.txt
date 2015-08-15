@@ -1,0 +1,10 @@
+locales
+locale definition
+locale codes
+localeur
+locale maps
+localeze
+localecompare
+locale java
+local edition
+locale list

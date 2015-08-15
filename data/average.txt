@@ -1,0 +1,10 @@
+average
+average sat score
+average iq
+average male height
+average heart rate
+average act score
+average height for women
+average typing speed
+average resting heart rate
+average credit score

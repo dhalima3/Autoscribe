@@ -1,0 +1,10 @@
+instance
+instanceof java
+instanceof
+instance variable
+instance meaning
+instance types
+instance variable java
+instance variable ruby
+instance_variable_set
+instance_eval

@@ -1,0 +1,10 @@
+attempted
+attempted relative import in non-package
+attempted synonym
+attempted kidnapping
+attempted to assign to readonly property
+attempted manslaughter
+attempted assault
+attempted kidnapping campbell
+attempted to access an unloaded appdomain
+attempted to wrap which is already wrapped

@@ -1,0 +1,10 @@
+configure
+configure chromecast
+configure gmail in outlook
+configure airport express
+configure git
+configure prefix
+configure synonym
+configureawait
+configure airport extreme
+configure netgear router

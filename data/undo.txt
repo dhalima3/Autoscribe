@@ -1,0 +1,10 @@
+undo last commit
+undo git add
+undo git pull
+undo git stash pop
+undocumented
+undone
+undo git rm
+undocumented immigrants
+undo send gmail
+undo git merge

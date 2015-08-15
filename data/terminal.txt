@@ -1,0 +1,10 @@
+terminal velocity
+terminal lance
+terminal 3 sfo
+terminal
+terminal 1 sfo
+terminal commands
+terminal 5
+terminal value
+terminal cancer
+terminal server

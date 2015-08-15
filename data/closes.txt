@@ -1,0 +1,10 @@
+closest gas station
+closest starbucks
+closest walmart
+closest bart station
+closest liquor store
+closest wells fargo
+closest airport to disneyland
+closest bank of america
+closest post office
+closest safeway

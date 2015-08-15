@@ -1,0 +1,10 @@
+putsch
+puts and calls
+puts
+puts ruby
+puts c
+outside lands
+puts tcl
+puts on sunglasses
+putsmail
+puts vs printf

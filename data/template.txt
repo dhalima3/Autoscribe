@@ -1,0 +1,10 @@
+template
+template c++
+template monster
+template definition
+template specialization
+template class
+template function
+template for resume
+template synonym
+template metaprogramming

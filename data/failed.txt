@@ -1,0 +1,10 @@
+failed to load class org.slf4j.impl.staticloggerbinder
+failed chsi sik
+failed to decode downloaded font
+failed states
+failed to push some refs to
+failed to enumerate objects in the container
+failed to import bridging header
+failed startups
+failed to play test tone
+failed to create d3d device

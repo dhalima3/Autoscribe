@@ -1,0 +1,10 @@
+defines
+definespresentationcontext
+defines synonym
+defines in systemverilog
+defines in c
+defines module
+define simile
+definestem
+defines y as a function of x
+define sublime

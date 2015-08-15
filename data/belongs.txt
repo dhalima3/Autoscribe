@@ -1,0 +1,10 @@
+belongs_to through
+belongs_to
+belongs_to rails
+belongs
+belongs_to vs has_one
+belongs_to foreign_key
+belongs to
+belongs to you
+belongs_to class_name
+belongs to vs has one

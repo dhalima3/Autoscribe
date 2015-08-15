@@ -1,0 +1,10 @@
+cpm
+cpr
+cpmc
+cpi
+cpk
+cpap
+cpuc
+cpk menu
+cpg
+cpu benchmark

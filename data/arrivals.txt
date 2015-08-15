@@ -1,0 +1,10 @@
+arrivals sfo
+arrivals sjc
+arrivals
+arrivalstar
+arrivals oakland airport
+arrivals jfk
+arrivals lax
+arrivals dfw
+arrivals atlanta
+arrivals pdx

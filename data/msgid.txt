@@ -1,0 +1,10 @@
+msgid
+msgid nofqdn1
+msgid merr-26612
+msigdb
+msgid(cpf0000)
+msgid plural
+msgid merr-26366
+msgid_from_mta_header
+msgid msgstr
+msgid mmsg-26388

@@ -1,0 +1,10 @@
+remove directory linux
+remove symbolic link
+remove kebab
+remove synonym
+remove skin tags
+remove untracked files git
+remove mackeeper
+remove adware
+remove element from array javascript
+remove branch git

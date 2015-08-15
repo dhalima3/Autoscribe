@@ -1,0 +1,10 @@
+processor comparison
+processor
+processor definition
+processor speed
+processor benchmarks
+processor affinity
+processor cache
+processor core
+processor architecture
+processor speed test

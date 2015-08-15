@@ -1,0 +1,10 @@
+gcc
+gcc options
+gcc compiler
+gcc pulse
+gcc login
+gcc c++11
+gcc download
+gcc 5
+gcc include path
+gcc 5.1

@@ -1,0 +1,10 @@
+requests python
+requests session
+requests post json
+requests timeout
+requests for admission
+requests github
+requests insecureplatformwarning
+requests oauthlib
+requests response
+requests basic auth

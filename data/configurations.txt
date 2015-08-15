@@ -1,0 +1,10 @@
+configurations
+configurations gradle
+configurations.all gradle
+configurationsection
+configurations definition
+configurations solidworks
+configurationsettings
+configurationsavemode
+configurations of hearing loss
+configurationsourcefactory

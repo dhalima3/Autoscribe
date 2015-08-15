@@ -1,0 +1,10 @@
+update chrome
+update flash
+update java
+update firefox
+update safari
+update sql
+update to windows 10
+update itunes
+update npm
+update internet explorer

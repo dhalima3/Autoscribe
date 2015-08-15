@@ -1,0 +1,10 @@
+alias
+aliases
+aliasing
+alias linux
+alias mx
+alias bash
+alias smith and jones
+alias_method
+alias training
+alias_method_chain

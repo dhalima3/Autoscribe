@@ -1,0 +1,10 @@
+nearest gas station
+nearest starbucks
+nearest walmart
+nearest post office
+nearest grocery store
+nearest wells fargo
+nearest bank of america
+nearest safeway
+nearest target
+nearest taco bell

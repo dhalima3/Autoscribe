@@ -1,0 +1,10 @@
+depends
+depends for men
+depends for women
+depends silhouette
+depends synonym
+depends commercial
+depends coupons
+depends on
+depends on libraries but is a jar
+dependson gradle

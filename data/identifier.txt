@@ -1,0 +1,10 @@
+identifier
+identifier expected
+identifierforvendor
+identifier java
+identifier c++
+identifier definition
+identifier not found
+identifier thesaurus
+identifierforadvertising
+identifier is undefined c++

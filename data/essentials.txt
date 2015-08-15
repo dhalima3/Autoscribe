@@ -1,0 +1,10 @@
+essentials
+essentials permissions
+essentials 1.8
+essentials commands
+essentials in writing
+essentials for camping
+essentials signs
+essentials for health
+essentials group manager
+essentials spigot

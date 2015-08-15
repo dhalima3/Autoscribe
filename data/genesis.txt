@@ -1,0 +1,10 @@
+genesis
+genesis 1
+genesis rodriguez
+genesis car
+genesis lending
+genesis credit
+genesis 3
+genesis 2
+genesis coupe
+genesis 6

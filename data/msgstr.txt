@@ -1,0 +1,10 @@
+msgstr
+msgstr wordpress
+msgstringtable.txt rathena
+msgstringtable rathena
+msgstringtable.txt hercules
+msgstr 0
+msgstr po
+msgstringtable july 2nd
+msgstr 2
+msgstringtable 2012

@@ -1,0 +1,10 @@
+performseguewithidentifier
+performselector
+performselector may cause a leak
+performselectoronmainthread
+performs
+performselector afterdelay
+performselector swift
+performseguewithidentifier swift
+performselectoronmainthread swift
+performselector withobject

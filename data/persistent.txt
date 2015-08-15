@@ -1,0 +1,10 @@
+persistent
+persistent definition
+persistent cough
+persistent sore throat
+persistent depressive disorder
+persistent efficiency
+persistent dry cough
+persistent synonym
+persistent headache
+persistent surveillance systems

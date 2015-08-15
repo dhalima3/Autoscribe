@@ -1,0 +1,10 @@
+diseases
+diseases caused by bacteria
+diseases of the digestive system
+diseases of the respiratory system
+diseases caused by viruses
+diseases of the endocrine system
+diseases of the nervous system
+diseases caused by smoking
+diseases of the eye
+diseases in africa

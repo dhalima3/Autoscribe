@@ -1,0 +1,10 @@
+apache spark
+apache
+apache kafka
+apache storm
+apache mesos
+apache tomcat
+apache drill
+apache hadoop
+apache cassandra
+apache hive

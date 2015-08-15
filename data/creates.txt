@@ -1,0 +1,10 @@
+createspace
+creates
+creates synonym
+createsend
+createscaledbitmap
+createspace estore
+createspace cover template
+createservice
+createspace reviews
+createsemaphore

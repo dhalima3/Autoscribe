@@ -1,0 +1,10 @@
+hosted bar
+hosted graphite
+hosted exchange
+hosted elasticsearch
+hosted jquery
+hosted
+hosted wordpress
+hosted mongodb
+hosted jenkins
+hosted pbx

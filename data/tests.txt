@@ -1,0 +1,10 @@
+tests
+testspeed
+tests for ms
+tests for lupus
+tests for convergence
+tests for diabetes
+tests for ovarian cancer
+teststand
+testsuite
+tests for appendicitis

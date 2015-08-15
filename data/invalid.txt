@@ -1,0 +1,10 @@
+invalid
+invalid sim
+invalid partition table
+invalid operands to binary expression
+invalid byte sequence in utf-8
+invalid use of incomplete type
+invalid sim iphone 5
+invalid dim
+invalid target release 1.8
+invalid argument to unary operator

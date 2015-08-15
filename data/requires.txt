@@ -1,0 +1,10 @@
+requires
+requires synonym
+requires hate
+requires explicit package name
+requires numeric/complex matrix/vector arguments
+requiresconstraintbasedlayout
+requires libstdc++.so.6(glibcxx_3.4.15)(64bit)
+requires capabilities capability_iam
+requires elevation
+requires libcurl.so.3()(64bit)

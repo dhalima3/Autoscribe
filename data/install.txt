@@ -1,0 +1,10 @@
+install pip
+install java
+install npm
+install homebrew
+install chrome
+install git
+install firefox
+install windows 10
+install node
+install python

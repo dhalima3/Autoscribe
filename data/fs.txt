@@ -1,0 +1,10 @@
+fsa
+fsu
+fsusd
+fslr
+fsafeds
+fsbo
+fsce
+fs
+fscanf
+fsh

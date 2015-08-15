@@ -1,0 +1,10 @@
+specifies
+specifies definition
+specifies multiple packages
+specifies synonym
+specifies the arrangement of placeholders on a slide
+specifies a particular amino acid
+specifies the height of the characters
+specifies the point at which inventory is needed
+specifies failure on truncation
+specifies a cfbundleexecutable of which is not executable

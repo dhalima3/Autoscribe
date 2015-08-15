@@ -1,0 +1,10 @@
+attempt
+attempted relative import in non-package
+attempting
+attempt to dereference a null object
+attempt to write a readonly database
+attempted kidnapping
+attempting normal
+attempt to set a non-property-list object
+attempted to assign to readonly property
+attempted manslaughter

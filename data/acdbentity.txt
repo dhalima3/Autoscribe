@@ -1,0 +1,10 @@
+acdbentity
+acdbentity dxf
+acdbentity autocad
+acdbentity clone
+acdbentity erase
+acdbentity explode
+acdbentity acdbline
+acdbentity getgeomextents
+acdbentity xdata
+objectarx acdbentity

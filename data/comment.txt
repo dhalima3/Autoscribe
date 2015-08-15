@@ -1,0 +1,10 @@
+commentary
+comments in html
+comments in json
+comments in python
+comment
+comments in css
+comment in xml
+comment in sql
+comments in javascript
+comment allez-vous

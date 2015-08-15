@@ -1,0 +1,10 @@
+pdt time
+pdt time now
+pdt vs pst
+pdt to gmt
+pdt to pst
+pdt to utc
+pdt to est
+pdt now
+pdt to ist
+pdt to cst

@@ -1,0 +1,10 @@
+common sense media
+commons
+commons brewery
+commons logging
+commons-codec
+commons io
+commons lang
+commons cli
+commons io maven
+commons-httpclient

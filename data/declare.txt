@@ -1,0 +1,10 @@
+declare
+declare array java
+declare array javascript
+declare array c++
+declare variable sql
+declare variable python
+declared presidential candidates
+declare function javascript
+declare array python
+declare table variable
