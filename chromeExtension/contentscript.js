@@ -6,9 +6,10 @@ $(function(){
   /**
    * Creates a suggestion box at the $input
    */
-  function createSuggestionBox($input) {
+  function createSuggestionBox($input,$current_input) {
     selectedIndex = 0;
     $('.suggestionBox').remove();
+    var last_word = $current_input.value.split(" ").pop()
     var $suggestionList = $('<ul/>').addClass('suggestions');
     for (var i in suggestionList) {
       var suggestion = suggestionList[i];
@@ -38,12 +39,12 @@ $(function(){
     });
   }
 
-  function toggleSuggestionBox() {
+  function toggleSuggestionBox($current_input) {
     var $suggestionBox = $('.suggestionBox');
     if ($suggestionBox.length) {
       $suggestionBox.remove();
     } else {
-      createSuggestionBox($lastInputBox);
+      createSuggestionBox($lastInputBox,$current_input);
     }
   }
 
@@ -97,7 +98,7 @@ $(function(){
       // Ctrl + Space
       case 32:
         if (e.ctrlKey) {
-          toggleSuggestionBox();
+          toggleSuggestionBox(this);
           return false;
         }
     }
