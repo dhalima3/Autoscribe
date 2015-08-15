@@ -1,11 +1,12 @@
-.codebox {
-  position: absolute;
+.suggestionBox {
+  position: fixed;
   top: 0;
   left: 0;
   border: 1px solid gray;
   background-color: rgb(235, 244, 254);
   overflow: hidden;
   border-radius: 2px;
+  z-index: 100000;
 }
 
 .suggestions {
@@ -22,9 +23,18 @@
   color: black;
   font-family: Helvetica !important;
   font-weight: 400 !important;
+  font-size: 12px !important;
   text-shadow: none;
+
+  padding: 6px 2px 2px 20px;
+  line-height: 1 !important;
 }
 
 .suggestion:not(:first-child) {
   border-top: 1px dotted gray;
+}
+
+.suggestion.selected {
+  background-color: rgb(7, 68, 130) !important;
+  color: white !important;
 }
