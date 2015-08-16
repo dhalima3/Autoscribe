@@ -55,9 +55,9 @@ function get_suggestions(current_text){
 console.log(get_suggestions('can you see '));
 //console.log(display);
 
-//var card = new UI.Card({
-//  title: display
-//});
-//card.body('This is the content of my card!');
-//card.show();
+var card = new UI.Card({
+  title: get_last_selection()
+});
+card.body(suggestion);
+card.show();
 
