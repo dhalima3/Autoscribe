@@ -13,7 +13,7 @@ $(function(){
 
       var all = [];
       for (var i = 0; i < B.length; i++) {
-        all.push({ 'A': A[i], 'B': B[i] });
+        result.push({ 'A': A[i], 'B': B[i] });
       }
 
       all.sort(function(a, b) {
