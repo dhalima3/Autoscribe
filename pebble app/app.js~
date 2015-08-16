@@ -1,0 +1,71 @@
+/**
+ * Welcome to Pebble.js!
+ *
+ * This is where you write your app.
+ */
+
+//var UI = require('ui');
+
+var word_data = require("/home/allan/Desktop/pebble\ app/word_data");
+
+var suggestions_list = [];
+
+var decay_rate = 2;
+
+function get_suggestions(current_text){
+  var text_array = current_text.trim()
+                          .toLowerCase()
+                          .replace(".","")
+                          .replace(",","")
+                          .replace("'","")
+                          .replace("!","")
+                          .split(" ");
+  
+  var decay_scores = [];
+  for (var i = text_array.length;i>=0;i--){
+    decay_scores.push(Math.pow(decay_rate,-i));
+  }
+  
+  var word_scores=[];
+  var word_array=[];
+  
+  for (i =0;i<text_array.length;i++){
+    if(word_data.hasOwnProperty(text_array[i])){
+      var keyword = text_array[i];
+      var current_words = word_data[keyword];
+      var keyword_count = current_words["count"];
+      delete current_words["count"]
+      var words = Object.keys(current_words);
+      for (var j =0;j<words.length;j++){
+        //console.log(words[j])
+        word_array.push(words[j]);
+        word_scores.push(decay_scores[i]*word_data[keyword][words[j]]/keyword_count);
+      }  
+    }
+  }
+  var all = [];
+  for (i = 0; i < word_scores.length; i++) {
+    all.push({ 'A': word_array[i], 'B': word_scores[i] });
+  }
+
+  all.sort(function(a, b) {
+    return b.A - a.A;
+  });
+
+  var A = [];
+  var B = [];
+
+  for (i = 0; i < all.length; i++){
+    A.push(all[i].A);
+    B.push(all[i].B);
+  }
+  return A;  
+}
+
+console.log(get_suggestions('san'));
+
+//var card = new UI.Card({
+//  title: get_suggestions('a')[0]
+//});
+//card.body('This is the content of my card!');
+//card.show();
