@@ -1,7 +1,16 @@
 $(function(){
   var selectedIndex = 0;
-  var suggestionList = ['one', 'two', 'three'];
+  var suggestionList = [];
   var $lastInputBox = null;
+
+  var suggestionListB={"a":{"one":1,"two":2,"three":3,"four":4},"b":{"three":1,"two":2,"one":3}}
+  function getSuggestions(last_word){
+    if (suggestionListB.hasOwnProperty(last_word)){
+      return Object.keys(suggestionListB[last_word])
+    }else{
+      return []
+    }
+  }
 
   /**
    * Creates a suggestion box at the $input
@@ -10,7 +19,9 @@ $(function(){
     selectedIndex = 0;
     $('.suggestionBox').remove();
     var last_word = $current_input.value.split(" ").pop()
+    suggestionList = getSuggestions(last_word);
     var $suggestionList = $('<ul/>').addClass('suggestions');
+    //suggestionList = ["one","two","three"]
     for (var i in suggestionList) {
       var suggestion = suggestionList[i];
       var $suggestion = $('<li/>').addClass('suggestion').text(suggestion);
