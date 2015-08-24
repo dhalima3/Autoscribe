@@ -16,7 +16,6 @@ function get_suggestions(current_text){
   var text_array = current_text.trim()
                           .toLowerCase()
                           .replace(".","")
-                          .replace(",","")
                           .replace("'","")
                           .replace("!","")
                           .split(" ");
@@ -55,9 +54,43 @@ function get_suggestions(current_text){
 console.log(get_suggestions('can you see '));
 //console.log(display);
 
-var card = new UI.Card({
-  title: get_last_selection()
-});
-card.body(suggestion);
-card.show();
+//var wind = new UI.Window({ fullscreen: true });
+var current_word = "going";
+var words_arr = get_suggestions(current_word);
+var current_ind = 0;
 
+var card = new UI.Card({
+  title: current_word
+});
+card.body(words_arr[current_ind]);
+// card.show();
+
+card.on('click', 'down', function() {
+    console.log(current_ind);
+
+  current_ind+=1;
+  if (current_ind>words_arr.length-1){
+    current_ind=0;
+  }
+  card.body(words_arr[current_ind]);
+//   card.show();
+});
+
+card.on('click', 'up', function() {
+  current_ind-=1;
+  if (current_ind<0){
+    current_ind=words_arr.length-1;
+  }
+  console.log(current_ind);
+  card.body(words_arr[current_ind]);
+});
+
+card.on('click', 'select', function() {
+  current_word = words_arr[current_ind];
+  words_arr = get_suggestions(current_word);
+  current_ind=0;
+  card.title(current_word);
+  card.body(words_arr[current_ind]);
+});
+
+card.show();
